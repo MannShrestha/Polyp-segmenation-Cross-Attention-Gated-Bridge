@@ -21,10 +21,12 @@ pip install -r requirements.txt
 ```
 
 # Data Sample
-https://github.com/MannShrestha/Polyp-segmenation-Cross-Attention-Gated-Bridge/blob/main/images/input-image.png
+![datasample](https://github.com/MannShrestha/Polyp-segmenation-Cross-Attention-Gated-Bridge/blob/main/images/input-image.png)
+# Model Architecture
+![Architecture](https://github.com/MannShrestha/Polyp-segmenation-Cross-Attention-Gated-Bridge/blob/main/images/full_architecture_vertical.jpg)
 
 # Code workflow
-![workflow](images/code workflow.jpeg)
+![workflow](https://github.com/MannShrestha/Polyp-segmenation-Cross-Attention-Gated-Bridge/blob/main/images/code%20workflow.jpeg)
 
 # Swin Attention Unet Output
 ![SAU](images/output-result-1.jpg)
